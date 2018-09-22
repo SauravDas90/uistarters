@@ -1,0 +1,31 @@
+{
+	"name": "passport-fcc",
+	"version": "1.0.0",
+	"description": "sample project for using passport",
+	"main": "app.js",
+	"scripts": {
+		"start": "node app.js",
+		"restart": "nodemon app.js"
+	},
+	"dependencies": {
+		"body-parser": "^1.16.0",
+		"cors": "^2.8.1",
+		"express": "^4.14.1",
+		"helmet": "^3.4.0",
+		"mongodb": "^2.2.22",
+		"pug": "^2.0.3"
+	},
+	"engines": {
+		"node": "4.4.3"
+	},
+	"keywords": [
+		"passport-local",
+		"passport-social",
+		"fcc"
+	],
+	"author": "sauravdas90",
+	"license": "ISC",
+	"devDependencies": {
+		"nodemon": "^1.18.4"
+	}
+}
