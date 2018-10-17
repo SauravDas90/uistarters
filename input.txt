@@ -1,0 +1,52 @@
+Input
+ Saurav Das
+
+Output 
+6 9
+
+Input Kuch bhi mat bol, bhak ja yaha se,
+Jaldi bhag na, khada kyu hai, Ishrafeeel
+Mayank Chouhan 123
+
+
+
+warehouse 6
+
+
+store 786757511321 white
+
+store 786757511221 black
+
+store 411381233931 green
+
+store 463274632786 yellow
+
+status 
+
+Output (tab delimited output)
+
+
+Slot no product code colour
+1	786757511321	white
+2	786757511221	black
+3	411381233931	green
+5	463274632786	yellow
+
+
+product_codes_for_products_with_colour white
+
+786757511321 786757511321
+
+slot_number_for_product_code
+
+82537113174
+
+slot_number_for_product_code
+
+
+82532221754
+
+
+
+
+
